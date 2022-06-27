@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/dependency_inversion_principle/DependencyInversion.java=UTF-8
+encoding//src/interface_segregation_principle/InterfaceSegregation.java=UTF-8
+encoding//src/liskov_substitution_principle/LiskovSubstitution.java=UTF-8
+encoding//src/open_closed_principle/OpenClosed.java=UTF-8
+encoding//src/single_responsibility_principle/SingleResponsibility.java=UTF-8
